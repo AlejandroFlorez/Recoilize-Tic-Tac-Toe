@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import "core-js/stable";
 import { RecoilRoot, Resetter, useRecoilState, useRecoilValue, useResetRecoilState, useSetRecoilState } from 'recoil';
 import { squareStates, currentPlayerState, gameEndSelector, nextPlayerSetSelector} from './Store/Atoms';
 
