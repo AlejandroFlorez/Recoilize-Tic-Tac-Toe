@@ -24,7 +24,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "recoil": "^0.7.7",
-    "recoilize": "file:///Users/anne/Dropbox/Mac/Documents/2023/Codesmith/Week%208/Recoilize4/package/recoilize-3.1.6.tgz"
+    "recoilize": "^3.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",
